@@ -1,0 +1,124 @@
+{
+  "kind": "Root",
+  "name": "TopLevel",
+  "printedName": "TopLevel",
+  "children": [
+    {
+      "kind": "Var",
+      "name": "unsortedIntegers",
+      "printedName": "unsortedIntegers",
+      "children": [
+        {
+          "kind": "TypeNominal",
+          "name": "Array",
+          "printedName": "[Swift.Int]",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Int",
+              "printedName": "Swift.Int",
+              "usr": "s:Si"
+            }
+          ],
+          "usr": "s:Sa"
+        }
+      ],
+      "declKind": "Var",
+      "usr": "s:6Simple16unsortedIntegersSaySiGvp",
+      "mangledName": "$s6Simple16unsortedIntegersSaySiGvp",
+      "moduleName": "Simple",
+      "declAttributes": [
+        "HasInitialValue",
+        "HasStorage",
+        "RawDocComment"
+      ],
+      "isLet": true,
+      "hasStorage": true
+    },
+    {
+      "kind": "Var",
+      "name": "unsortedStr",
+      "printedName": "unsortedStr",
+      "children": [
+        {
+          "kind": "TypeNominal",
+          "name": "Array",
+          "printedName": "[Swift.String]",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "String",
+              "printedName": "Swift.String",
+              "usr": "s:SS"
+            }
+          ],
+          "usr": "s:Sa"
+        }
+      ],
+      "declKind": "Var",
+      "usr": "s:6Simple11unsortedStrSaySSGvp",
+      "mangledName": "$s6Simple11unsortedStrSaySSGvp",
+      "moduleName": "Simple",
+      "declAttributes": [
+        "HasInitialValue",
+        "HasStorage",
+        "RawDocComment"
+      ],
+      "hasStorage": true
+    },
+    {
+      "kind": "Var",
+      "name": "a",
+      "printedName": "a",
+      "children": [
+        {
+          "kind": "TypeNominal",
+          "name": "Array",
+          "printedName": "[Swift.String]",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "String",
+              "printedName": "Swift.String",
+              "usr": "s:SS"
+            }
+          ],
+          "usr": "s:Sa"
+        }
+      ],
+      "declKind": "Var",
+      "usr": "s:6Simple1aSaySSGvp",
+      "mangledName": "$s6Simple1aSaySSGvp",
+      "moduleName": "Simple",
+      "declAttributes": [
+        "HasInitialValue",
+        "HasStorage",
+        "RawDocComment"
+      ],
+      "hasStorage": true
+    },
+    {
+      "kind": "Var",
+      "name": "tswap",
+      "printedName": "tswap",
+      "children": [
+        {
+          "kind": "TypeNominal",
+          "name": "Int",
+          "printedName": "Swift.Int",
+          "usr": "s:Si"
+        }
+      ],
+      "declKind": "Var",
+      "usr": "s:6Simple5tswapSivp",
+      "mangledName": "$s6Simple5tswapSivp",
+      "moduleName": "Simple",
+      "declAttributes": [
+        "HasInitialValue",
+        "HasStorage"
+      ],
+      "hasStorage": true
+    }
+  ],
+  "json_format_version": 6
+}
